@@ -6,3 +6,4 @@ Rollcall
 Name and GitHub account
 --------------------------------
 * John Stratton [johnastratton](https://github.com/johnastratton)
+Jack Taylor-Qin
